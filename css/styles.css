@@ -1,0 +1,43 @@
+body 
+{
+  background-color: #eaf6f6;
+}
+
+button
+{
+    color: white;
+}
+
+button:hover
+{
+    color: #FFD89C;
+}
+
+hr
+{
+  width: 2pc;
+  border-style:  dotted none none none;;
+  border-width: 5px;
+  border-color: gray;
+}
+
+h1
+{
+    color: #66bfbf;
+}
+
+h3
+{
+    color: #66bfbf;
+}
+
+p
+{
+    color: #85A389;
+}
+
+input 
+{ 
+    background-color: #ecf6f6;
+}
+ 
